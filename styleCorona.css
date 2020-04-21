@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    border:none; 
+}
+.colwidth12-12 {
+    width: 100%;
+}
+.colwidth6-12{
+    width: 50%;
+}
+.colwitdh3-12 {
+    width: 25%;
+}
+.hi50 {
+    height: 50px;
+    background-color: rgba(20.200.200.7);
+}
+.hi50 a {
+        color: papayawhip;
+            text-decoration:none;
+    }
+.flexCentered {
+    display: flex ;
+flex-direction: row ;
+flex-wrap: wrap ;
+justify-content: space-around ;
+align-items: center ;
+align-content: center ;
+}
+.foto-personaje{
+    width: 100%;
+    height: 100;
+        
+}
+.newspaper {
+    column-count: 3;
+    padding: 365px;
+    width: 100%;
+    
+}
+.special{
+column-count: 3;
+    padding: 310px;
+    width: 100%;
+}
+.cool{
+    column-count: 3;
+    padding: 400px;
+    width: 100%;
+}
+.start{
+     column-count: 3;
+    padding: 5px;
+    width: 100%;
+    
+}
